@@ -1,4 +1,4 @@
 # mammogram-classification
 Projeto de TCC - Graduação Ciência da Computação. O atual projeto tem o intuito de realizar um experimeto  das redes neurais convolucionais em classificar images de mamografias como Benignas, Malignas e Normais.
 
-Dataset utilizando como entrada é o Mini-MIAS.
+Dataset de entrada: Mini-MIAS.
